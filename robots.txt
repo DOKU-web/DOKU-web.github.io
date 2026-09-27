@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sc-kr/admin.html
+
+Sitemap: https://doku-web.github.io/sitemap.xml
